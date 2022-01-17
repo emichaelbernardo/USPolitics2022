@@ -27,7 +27,7 @@ Using Bigrams, here are the Democratic and Republican platform topics based on t
 
 | Democrats	| REpublicans 	|
 |---	|---	|
-|![dem bigrams](img/dem_bigram.png)|![gop bigrams](img/gop_trigram.png)|
+|![dem bigrams](img/dem_bigram.png)|![gop bigrams](img/gop_bigram.png)|
 
 
 <h2>Further Work </h2>
