@@ -25,7 +25,7 @@ Using sklearns CountVectorizer and TfidfVectorizer, bigrams and trigrams were al
 
 Using Bigrams, here are the Democratic and Republican platform topics based on tweet data:
 
-| Democrats	| REpublicans 	|
+| Democrats	| Republicans 	|
 |---	|---	|
 |![dem bigrams](img/dem_bigram.png)|![gop bigrams](img/gop_bigram.png)|
 
