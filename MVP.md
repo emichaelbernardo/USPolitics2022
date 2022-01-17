@@ -26,6 +26,7 @@ Using sklearns CountVectorizer and TfidfVectorizer, bigrams and trigrams were al
 
 <h2>Further Work </h2>
 For the final project proposed tasks to complete include:
+
 - additional text cleaning 
 - exploration of tweet favorites and retweets for use in feature creation to determine topic 'stickyness' for sentiment analysis
 - using other topic modelers on data 
