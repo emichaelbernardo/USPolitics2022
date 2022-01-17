@@ -2,7 +2,7 @@
 <h3>Minimum Viable Product (MVP)</h3>
 
 <h2>Introduction</h2>
-Twitter is the modern political soapbox. We have all seen it used as a vehicle for both information and mis-information and this project aims to use tweets to identify the Democratic and Republican political platforms for the 2022 midterm elections in the United States.
+Twitter is the modern political soapbox. We have all seen it used as a vehicle for both information and mis-information and this project aims to use tweets to identify the Democratic and Republican political platforms for the 2022 midterm elections in the United States using various NLP methods and techniques.
 
 <h2>Design and Methodology</h2>
 The initial phase was acquiring the previous 1000 tweets from each member of the House and Senate then loading scraped tweets into a dataframe. Tweets were then limited to January 1, 2021-January 10, 2022. 
