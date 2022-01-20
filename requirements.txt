@@ -5,10 +5,7 @@ altair-data-server==0.4.1
 altair-saver==0.5.0
 altair-viewer==0.3.0
 
-#matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1639359004870/work
-#matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
-
 numpy==1.22.0
 plotly==5.1.0
-wordcloud @ file:///Users/embernardo/word_cloud
+
 
