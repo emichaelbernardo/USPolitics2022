@@ -11,7 +11,7 @@ This project hopes to use twitter data from the accounts of members from the 117
 ## Project Outline
 
 - Acquire Twitter data
-    - get account names of all congress teitter users
+    - get account names of all congress twitter users
     - scrape last 1000 tweets from each user
 - Clean data
     - extract: URLs, emojis, hashtags to be used in later analysis
